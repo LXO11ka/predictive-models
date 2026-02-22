@@ -1,0 +1,1 @@
+Implementation of predictive algorithms and mathematical models using Python and C#. Focusing on financial forecasting, statistical analysis, and probability-based prediction models for various domains.
